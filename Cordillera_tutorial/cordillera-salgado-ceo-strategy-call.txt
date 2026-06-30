@@ -1,0 +1,79 @@
+Rachel Kim: Okay, I think we are recording now. Ricardo, can you see my screen alright, or should I just keep it on gallery?
+
+Salgado, Ricardo: No, gallery is good, gallery is good. I can see you fine. Sorry, give me one second, my coffee is, okay, there we go.
+
+Rachel Kim: No worries at all. So thank you so much for making the time, I know it's early in Monterrey.
+
+Salgado, Ricardo: It's not so early, we start at seven here, you know mining people, we keep the same hours as the mines.
+
+Rachel Kim: That's fair. So just so you know how we want to use the hour, Paul is going to lead most of it, we want to hear the story of the company from you, how you got here, where the pain is, and then a little bit on what you're hoping we help you with. And I'll be typing the whole time so if I'm quiet that's why.
+
+Salgado, Ricardo: Perfect, perfect.
+
+Brennan, Paul: Hi Ricardo, good to finally meet you properly. We met very briefly at the, the kickoff but it was chaos.
+
+Salgado, Ricardo: Yes, yes, it was a lot of people in that room. Good to see you Paul.
+
+Brennan, Paul: So maybe just start at the beginning. Give us, give us Cordillera in your words. How did it start?
+
+Salgado, Ricardo: Sure. So, I started the company in 2009 with my, with a partner, Esteban, who has since, he retired in 2019. We both came out of, we were both engineers at, well, at suppliers to the mining industry. And the thing we kept seeing was, every time there was a fire on a haul truck or a loader underground, and these happen more than people think, the response was, was terrible. The mines would buy a suppression kit from some, from an importer, bolt it on, and then nobody would ever service it. So when there's actually a fire the bottle is empty or the, the actuator is corroded. And people die from this, you know, this is not, this is not a small thing.
+
+Brennan, Paul: Right.
+
+Salgado, Ricardo: So our whole idea from day one was, it's not about selling the box. It's about the box plus somebody who actually shows up four times a year and makes sure it works. The service. That was the, that was the insight, if you want to call it that. In Mexico nobody was doing that seriously in 2009. So we started with, it was me and Esteban and I think four technicians, in a, in a rented warehouse in Santa Catarina.
+
+Rachel Kim: And today you're around 430 people, is that right?
+
+Salgado, Ricardo: 430, 435, it moves. About, a little under half of those are field technicians and the monitoring center people. So the, the service side is the biggest by headcount even though it's not the biggest by, by revenue.
+
+Brennan, Paul: Let's, let's come back to that because I think that's, that's actually the crux of a lot of this. But first, the business today, how do you, how do you describe the three, you have three divisions now.
+
+Salgado, Ricardo: Yes. So the way we, the way it's organized, and honestly this is part of why you're here, because I'm not sure it's the right way anymore. But today. We have VES, that's the vehicle and equipment suppression, that's the, the engineered systems that go on the mobile equipment, the trucks, the LHDs, the, the loaders. That's, that's where we started really and it's still the biggest by sales, it's a bit under half. Then FSD, fixed systems and detection, that's the conveyor fire detection, the linear heat detection cable, the suppression for the electrical rooms, the fuel bays, and also the, the sensors, gas detection, and our monitoring platform. And then FSC, the field services and compliance, that's the installation, the inspection, the maintenance contracts, the monitoring center, the training, the audits. The recurring stuff.
+
+Brennan, Paul: And the recurring revenue, how big is that now as a share?
+
+Salgado, Ricardo: FSC is about a quarter of revenue but it's, the margin is much better, it's, the gross margin on a service contract is north of fifty, fifty five percent, whereas on the equipment, the VES equipment, after we pay for all the imported components, we are lucky to keep thirty, thirty two. So the, the profit mix is very different from the, the revenue mix. The board, the family, they look at revenue and they say VES is the company. But the cash, a lot of the cash is the service.
+
+Rachel Kim: That's really helpful. When you say imported components, what, what are you importing?
+
+Salgado, Ricardo: Almost all the, the critical pieces. The detection cable, we import. The, the specialized nozzles, the actuators, the dry chemical agent we, some we get from a, from a US supplier, the foam concentrate. The cylinders we, some we get locally now which has helped. But the, the high value engineered parts, those come from the US, from Australia in some cases, a little from Germany. And the peso, when the peso moves, our margin moves with it and we can't always pass it through fast enough because we, our contracts are in pesos with the mines.
+
+Brennan, Paul: That, that FX exposure, is that, would you say that's one of your top, top issues?
+
+Salgado, Ricardo: It's, it's one. It's not the one that keeps me up. The one that keeps me up is, honestly it's the service business not scaling the way I want. Let me, let me explain. We win the equipment sale, VES sells a, sells the suppression systems for a, let's say a new fleet of haul trucks at a, at a copper mine in Sonora. Great. Then we're supposed to also sell them the service contract, the inspections, and capture that for ten years. But the handoff between the, the engineering side and the field service side is, it's broken. Mariana, you'll talk to Mariana, she runs field services, she'll, she'll tell you. The information about what was installed doesn't flow cleanly to the people who have to service it. So a technician drives six hours to a mine in Zacatecas and discovers the system is not what the work order said, or he doesn't have the right part, and he has to come back. We eat that cost.
+
+Brennan, Paul: How often does that happen, roughly?
+
+Salgado, Ricardo: More than I would like to say on a recording. (laughs) No, but it's, look, our first time fix rate, Mariana tracks it, it's somewhere around seventy percent. So almost a third of the time the technician doesn't fix it on the first visit. In a, in a remote mine, that's, that's brutal economically. And it's also a safety issue because the system is not protected in the meantime.
+
+Rachel Kim: And is that, the handoff problem, is that a systems thing, like IT systems, or is it people and process?
+
+Salgado, Ricardo: Both. We have, Tomás built a platform, CordilleraConnect, it's good, it's actually quite good for the monitoring, the telemetry. But the, the back office, the work orders, the inventory, the as-built records, that's three different systems and a lot of, a lot of Excel and WhatsApp honestly. So it's both. The technology is part of it and the, the way the two divisions, they don't, they have different bosses, different incentives. VES is measured on equipment sales. FSC is measured on contract renewals and, and uptime. So nobody owns the, the whole life of the customer.
+
+Brennan, Paul: That's, that's exactly the kind of thing we want to dig into. Let me ask the, the uncomfortable question. If you imagine the company in three years, what does, what does good look like to you?
+
+Salgado, Ricardo: Good looks like, first, we are the, we are clearly the number one in Mexico for mining fire safety, not just equipment but the, the whole thing, the protection as a service almost. We are getting there but there are, there's the international players, the big OEMs who bundle suppression with the, with the equipment, and there's cheap, frankly dangerous imports at the bottom that win on price with mines that don't, that aren't sophisticated. I want us to win on, on actually keeping people alive and being able to prove it with data. Second, good looks like the service business being, being half the revenue not a quarter, and being something we can scale without me personally knowing every, every site manager. Right now too much is in, in my head and in Mariana's head. And third, honestly, I would like to expand. We've done a couple of projects in Peru. The Andes, the, there's a huge market in Peru and Chile and we are nowhere in it. But I can't expand a, a business that I can't run cleanly at home. So that's, that's the order.
+
+Rachel Kim: That's a really clear way to put it. Can I ask about the regulatory side? How much is, is regulation a tailwind for you?
+
+Salgado, Ricardo: It's, it's becoming one. So in Mexico the, the safety regulation for mines, the NOMs from the labor ministry, the STPS, especially the one for underground mines, that's been, the enforcement has gotten more serious, especially after some of the, the accidents in the coal region in Coahuila over the years. And the big mining companies, the serious ones, Grupo, the big houses, they hold themselves to, often to international standards that are stricter than the Mexican minimum, because they have, they're publicly traded, they have international insurers. So when a mine adopts, say, the Australian standard for mobile equipment fire protection, the AS 5062, that's, that's good for us because we, we engineer to that and the cheap importers can't. So yes, regulation and the, the insurance requirements, those are pushing the market our way slowly. But enforcement is uneven. A small mine in the middle of nowhere, nobody is checking.
+
+Brennan, Paul: When you brought us in, the, the brief was operating model and organization. Is that, is that still how you'd frame the core problem, or has it shifted in your mind?
+
+Salgado, Ricardo: No, that's it. The, the core problem is we, we grew up as an engineering company that sells boxes, and the future is a service and data company that, that happens to also make excellent boxes. And the, the organization is still built for the, the old model. The divisions are in silos, the incentives don't line up, the customer experience is, is disjointed, and I am the, I'm the glue holding it together and that doesn't scale. So I want, I want help thinking about, do we, do we reorganize around the customer, around the mine, instead of around the, the product? How do we, how do we make the service business the, the center of gravity? And how do we do it without breaking what works, because VES, the engineering reputation, that's, that's sacred, that's why mines trust us.
+
+Brennan, Paul: That's, that's a great place for us to, to dig in. We're going to spend a lot of time with Mariana and with Tomás on exactly those handoffs.
+
+Salgado, Ricardo: Good. Mariana will be, she's very direct, she'll tell you everything that's wrong, maybe more than I did. (laughs) And Tomás is, Tomás is brilliant on the technology, sometimes too in love with the technology, but, but you'll see. Talk to both of them.
+
+Rachel Kim: We will. Last thing from me, just on, on the numbers, is it okay if your CFO, Lourdes, shares the divisional financials with us? We'd want the last, ideally the last five or six quarters by division.
+
+Salgado, Ricardo: Yes, yes, I'll tell Lourdes to, to send you everything. By division, the headcount, the backlog, all of it. She has it. Just, just don't be shocked at how, how lumpy the equipment revenue is, it's very, it depends on when the big mines do their capital projects. The service is the smooth part.
+
+Brennan, Paul: That's, that's exactly what we'd expect. Ricardo, this was, this was really helpful, thank you.
+
+Salgado, Ricardo: Thank you both. I'm, I'm glad you're here. Let's, let's fix this thing.
+
+Rachel Kim: Thanks Ricardo, we'll send notes. Have a good day.
+
+Salgado, Ricardo: You too, bye bye.

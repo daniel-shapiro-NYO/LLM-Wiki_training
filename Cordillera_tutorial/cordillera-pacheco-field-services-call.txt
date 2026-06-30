@@ -1,0 +1,59 @@
+Brennan, Paul: Mariana, hi, thanks for joining. Can you hear us okay? I think you were having audio trouble earlier.
+
+Pacheco, Mariana: Yes, now it's good. Before I was in the, in the truck, now I'm at the office in Monterrey so it's better. Sorry I'm a little, I was at a site yesterday so I'm catching up.
+
+Rachel Kim: No problem at all. Ricardo told us you'd give us the, the unvarnished version, so we're, we're looking forward to it.
+
+Pacheco, Mariana: (laughs) He said that? Okay. Yes. I will give you the real, the real picture. What do you want to start with?
+
+Brennan, Paul: Let's start with just, what does field services and compliance actually do, and how, how big is the team?
+
+Pacheco, Mariana: Okay so FSC, we are, we do everything after the sale basically. So installation of the systems, the scheduled inspections and maintenance, those are mostly quarterly or, depends on the contract, some are monthly for the high risk, then the 24/7 monitoring center, the compliance audits where we, we certify the mine's systems against the standard, the training we deliver to the mine crews, and the, we service the refuge chambers too, the refuge alternatives underground. Headcount, I have about, right now 188 people. Of those about 140 are field technicians spread across the regions, then the monitoring center is, it's 22 including the supervisors running three shifts, and then the rest is, is planning, scheduling, the compliance auditors, and admin.
+
+Rachel Kim: And the technicians, are they, are they based in Monterrey or out in the regions?
+
+Pacheco, Mariana: We have, so we have regional bases. Monterrey is the, the headquarters and the biggest. Then we have a base in Zacatecas, that's central, a lot of silver mines there. Hermosillo for Sonora, that's the copper and gold in the north. And a small one in, in Durango. And then for Coahuila, the coal region, we, we cover that out of Monterrey mostly, it's a different, coal is a different animal, the, the gas, the methane risk, it's, it's specialized. So the technicians live near the bases but they travel constantly. A technician might drive four, five, six hours to a site, do two or three days of work, come back. The, the windshield time, we call it, the driving, it's enormous and it's, honestly it's our biggest hidden cost and also a safety risk for our own people on those roads.
+
+Brennan, Paul: Ricardo mentioned a first time fix rate around seventy percent. Is that, is that the number you track to?
+
+Pacheco, Mariana: Yes, it's, last quarter it was 71. I want it at 90. The reason it's not, there are a few reasons. Number one, the work order information is bad. When VES sells and installs a system, the as-built, what was actually installed, the, the configuration, it doesn't get recorded properly into a, into one place. So my planner builds a job and tells the technician to bring parts for system configuration A, and he gets there and it's configuration B because somebody made a field change two years ago and never documented it. So now he doesn't have the right nozzle or the right, the right actuator and he has to order it and come back. Number two, parts. We, our inventory is, it's not good. We don't have great visibility of what's in which regional, which van even. So sometimes the part exists, it's just in the wrong place. Number three, sometimes the mine isn't ready, the equipment we need to service is, it's down in the pit working and they won't release it, so we, we waste the trip.
+
+Rachel Kim: On the parts inventory, is that the same systems problem Ricardo mentioned, the three systems and Excel?
+
+Pacheco, Mariana: Yes. So we have the, the ERP for the, the financial and the purchasing. Then CordilleraConnect, which is Tomás's, that's the, the monitoring and telemetry, it's very good for seeing if a system is, is alarming or healthy in real time. But it's not, it's not built for managing the, the service work, the scheduling, the parts. So my team runs the scheduling in, honestly in a mix of a, an older field service software that we, that doesn't talk to the ERP, and a lot of spreadsheets, and the technicians communicate by WhatsApp groups. So when I want to know, simple question, how many overdue inspections do we have right now across all sites, it takes my, my coordinator a half a day to, to pull that together. It should be one click.
+
+Brennan, Paul: How many, roughly, sites and assets are you, are you responsible for?
+
+Pacheco, Mariana: We have active service contracts at, it's around 60 mine sites. And the, the number of, of protected assets, so individual suppression systems on vehicles plus the fixed systems, it's into the thousands, it's like, I think the last count was around 4,800 protected assets under contract. Each one has an inspection schedule. So that's, that's a lot of scheduled events to, to not miss. And if we miss one and there's a, and something happens, that's, that's a liability for us and for the mine.
+
+Rachel Kim: Can you say more about the compliance and audit side? That seems, that seems like a differentiator.
+
+Pacheco, Mariana: Yes, this is, this is actually where I think we are, we are best in the country and nobody else does it as well. So the serious mines, especially the ones owned by, the publicly traded ones, they have to demonstrate to their, their insurers and their corporate that their fire protection meets a standard. A lot of them have adopted the Australian standard, the AS 5062, for the mobile equipment, because the Mexican NOM, the official norm, it's, it's good on some things but it's not as specific on, on mobile equipment fire suppression. So we, we have auditors who go in and assess the mine's entire fleet, fleet, against the standard, we find the gaps, we write the report, and then of course we, we can also fix the gaps, which is, you can see the, the business model there. (laughs) But it's, it's legitimate, the mines need it. The, the issue is the auditors are, it's a small team, like six people, and they're, they're senior, they're hard to find and hard to keep, and the demand for audits is growing faster than I can hire them.
+
+Brennan, Paul: That's a great segue to, to talent. What's, what's the attrition like, and where does it hurt most?
+
+Pacheco, Mariana: Attrition on the technicians is, it's running about, it was 18 percent last year which for our industry is, it's not terrible but it's not good. The problem is the, the good ones, the senior technicians who can work unsupervised at a remote site, who the mine trusts, those take two, three years to train up and when they leave, often to go work directly for a mine because the mines pay better and there's no travel, that, that hurts a lot. The mines, our customers, they poach our best people. It's, it's a constant. And the auditors, like I said, six people, if I lose two of them I have a crisis. We don't have a good, we don't have a bench. The knowledge is in people's heads, not in, not in a system or a, a documented process. That's the thing that scares me if I'm honest.
+
+Rachel Kim: When you say the knowledge is in people's heads, is there, is there a training program or a certification path internally?
+
+Pacheco, Mariana: There is a, there's a program, we have a handbook, the protocols and safety handbook, every technician is supposed to be trained and certified on it, and we do refresh it. But it's, it's foundational, it's the protocols, the safety, the inspection procedures, the regulatory stuff. It's not the, the deep tribal knowledge of, you know, this particular mine in Sonora has this weird configuration because of a thing that happened in 2016. That stuff lives with the, the person. So when Ricardo talks about it not scaling, this is, this is what he means. I can't clone my senior people.
+
+Brennan, Paul: Let me ask about the relationship with VES, the engineering side. Ricardo described the handoff as broken. From your seat, what would, what would fix it?
+
+Pacheco, Mariana: Oh, I have, I have opinions. (laughs) Look, the, the fundamental thing is VES gets paid when they sell and install the equipment. The moment the equipment is installed, in their mind, the job is done and it's, it's my problem now. But they made decisions during the, the sale and the install that I have to live with for ten years. If they used a, a configuration that's hard to service, or they promised the mine a, a response time we can't meet, or they didn't document the as-built, I inherit all of that. So what would fix it. One, somebody has to own the customer for the whole, the whole life, not just the sale. Right now nobody does. Two, the as-built documentation has to be, it has to be mandatory and digital and in one system that both, that VES and FSC both use. Three, honestly, I think the incentives have to change so that VES cares about, about whether the thing is serviceable and whether the contract renews, not just the, the initial sale. But that's, that's above my, my level, that's for Ricardo and you all to figure out.
+
+Rachel Kim: That's incredibly helpful. On the monitoring center, you said 22 people, three shifts. What, what are they actually monitoring and is that, is that a growth area?
+
+Pacheco, Mariana: So the monitoring center, this is the future I think, this is where, this is the part I'm most excited about. The systems that have CordilleraConnect, the telemetry, they, they report their status to us in real time. Battery, pressure, whether the detection is healthy, whether there's been an, an activation. So if a suppression system fires on a truck in a mine at 3 in the morning, we know instantly, we can call the mine, we can dispatch, we can make sure it gets recharged and back in service. And for the mines that's, that's huge, it's uptime and it's safety. The problem is only, only about, I think 40 percent of our protected assets are actually connected. The rest are, they're old or the mine didn't pay for the, the connected option. So we're, we're flying blind on more than half. And the 22 people, they're, a lot of what they do is still manual, calling sites, chasing things. If we connected everything and, and used the data properly, the same 22 people could handle, could handle three times the assets. That's, that's the scale story for me.
+
+Brennan, Paul: That's, that's really clear. We're going to talk to Tomás next week about CordilleraConnect and the technology side, so that, that lines up well. Anything, anything we didn't ask that we should have?
+
+Pacheco, Mariana: Um. The one thing, I would just say, when you, when you design whatever the new, the new organization is, please don't, don't forget that the work happens at the, at the mine, at the face, with a technician who is alone, six hours from anywhere, and he has to make a, a judgment call about whether a system is safe. Everything we do has to make, has to make that person's job easier and safer and give them better information. If the reorg is just, just boxes and lines in Monterrey, it won't, it won't help them. That's, that's my, my plea.
+
+Rachel Kim: That's, that's exactly the right thing to hold us to. Thank you Mariana, this was fantastic.
+
+Pacheco, Mariana: Thank you, it was, it was good to, to say all this out loud honestly. Send me the, the notes and tell me what else you need, data, anything, I'll get it for you.
+
+Brennan, Paul: We will. Thanks Mariana.
+
+Pacheco, Mariana: Bye, thank you.
