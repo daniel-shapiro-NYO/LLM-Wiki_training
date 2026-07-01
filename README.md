@@ -81,7 +81,7 @@ The result is a **persistent, compounding database**.
 
 An LLM-Wiki has three layers:
 
-1. **Raw sources.** Your original documents, untouched. PDFs, PowerPoints,
+1. **Raw files.** Your original documents, untouched. PDFs, PowerPoints,
    Word files, transcripts, spreadsheet exports. The agent reads from them
    but never modifies them.
 
