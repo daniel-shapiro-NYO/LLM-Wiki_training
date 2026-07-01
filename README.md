@@ -21,11 +21,12 @@
 
 ### The problem it solves
 
-Imagine you are three months into an engagement. You have 80 documents:
+Imagine you are three months into an engagement. You have 180 documents:
 the client's annual reports, board strategy presentations, financial
 filings, prior analyses your team has produced, and a stack of industry
 research. A partner asks you to pull together a two-page briefing on the
-client's core strategic tensions before a meeting in two hours.
+client's core strategic tensions before a meeting with the key sponsor 
+the next morning.
 
 Without a wiki, you re-read documents you may not remember, search your
 email for the right deck, and are constantly hunting for the correct data
