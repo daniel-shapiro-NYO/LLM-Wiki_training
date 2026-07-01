@@ -42,8 +42,8 @@ And the agent responds with something like:
 > cost base has grown 18% over two years while revenue has grown only 7%,
 > creating sustained margin compression. This pattern is documented across
 > three annual reports (→ `sources/annual-report-2022`,
-> `sources/annual-report-2023`, `sources/annual-report-2024`) and flagged
-> by two external analysts (→ `sources/analyst-note-jan-2024`).
+> `sources/annual-report-2023`, `sources/annual-report-2026`) and flagged
+> by two external analysts (→ `sources/analyst-note-jan-2026`).
 >
 > **Strategic tension 2: Geographic concentration.** Approximately 70% of
 > revenue comes from two domestic markets, but the client has publicly
@@ -134,25 +134,25 @@ lists its sources, and the concept ties back to both. In Obsidian, every
 
 <table>
 <tr>
-<th>Source page<br><code>wiki/sources/annual-report-2024.md</code></th>
+<th>Source page<br><code>wiki/sources/annual-report-2026.md</code></th>
 <th>Entity page<br><code>wiki/entities/acme-industrial.md</code></th>
 <th>Concept page<br><code>wiki/concepts/margin-compression.md</code></th>
 </tr>
 <tr>
 <td valign="top"><pre>
 ---
-title: Annual Report 2024
-source_file: raw/annual-report-2024.pdf
+title: Annual Report 2026
+source_file: raw/annual-report-2026.pdf
 date_ingested: 2026-05-10
 type: report
 bucket: client-internal
 workstream: general
 ---
 
-# Annual Report 2024
+# Annual Report 2026
 
 ## Summary
-FY2024 filing for Acme Industrial.
+FY2026 filing for Acme Industrial.
 Operating margins declined for the
 third consecutive year as cost growth
 (18%) outpaced revenue growth (7%).
@@ -177,17 +177,17 @@ but noted near-term budget constraints.
 ## Contradictions / Open Questions
 CFO states cost initiatives are "on
 track" but margins fell again. Conflicts
-with [[investor-day-2024]] guidance
-of stabilization by H2 2024.
+with [[investor-day-2026]] guidance
+of stabilization by H2 2026.
 </pre></td>
 <td valign="top"><pre>
 ---
 title: Acme Industrial
 type: company
 sources:
-  - annual-report-2024
-  - investor-day-2024
-  - analyst-note-jan-2024
+  - annual-report-2026
+  - investor-day-2026
+  - analyst-note-jan-2026
 workstreams: [general, client-assessment]
 ---
 
@@ -199,15 +199,15 @@ primary engagement client. Operations
 in North America and Western Europe.
 
 ## Key Facts
-- FY2024 revenue: $4.2B
-- Operating margin: 11.8% (2024)
+- FY2026 revenue: $4.2B
+- Operating margin: 11.8% (2026)
   vs 14.2% (2022)
 - Employees: ~18,000
 
 ## Source Appearances
-- [[annual-report-2024]] — annual filing
-- [[investor-day-2024]] — strategy deck
-- [[analyst-note-jan-2024]] — risk review
+- [[annual-report-2026]] — annual filing
+- [[investor-day-2026]] — strategy deck
+- [[analyst-note-jan-2026]] — risk review
 
 ## Related
 - [[margin-compression]] — key challenge
@@ -218,8 +218,8 @@ in North America and Western Europe.
 title: Margin Compression
 type: theme
 sources:
-  - annual-report-2024
-  - analyst-note-jan-2024
+  - annual-report-2026
+  - analyst-note-jan-2026
 workstreams: [general, client-assessment]
 ---
 
@@ -229,17 +229,17 @@ workstreams: [general, client-assessment]
 Sustained operating margin decline
 driven by cost growth consistently
 outpacing revenue growth, observed
-from 2022 through 2024.
+from 2022 through 2026.
 
 ## Key Facts
-- Client margin: 11.8% (2024)
+- Client margin: 11.8% (2026)
   vs 14.2% (2022)
 - Industry peer avg: ~15.5%
-  per [[analyst-note-jan-2024]]
+  per [[analyst-note-jan-2026]]
 
 ## Source Appearances
-- [[annual-report-2024]] — trend data
-- [[analyst-note-jan-2024]] — benchmarks
+- [[annual-report-2026]] — trend data
+- [[analyst-note-jan-2026]] — benchmarks
 
 ## Related
 - [[acme-industrial]] — affected entity
